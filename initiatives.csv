@@ -1,73 +1,73 @@
-name;type;scope;url;focus
-JSTOR;library;non-profit;www.jstor.org;
-PloS;publisher;non-profit;www.plos.org;
-ORCID;service;non-profit;www.orcid.org;identification
-CrossRef;service;non-profit;www.corssref.org;identification
-iPython;software;non-profit;www.ipython.org;
-idpf;asociation;non-profit;www.idpf.org;
-eLife;publisher;non-profit;www.elifesciences.org;
-bioRxiv;repository;non-profit;www.biorxiv.org;preprints
-w3c;asociation;non-profit;www.w3.org;
-content mine;software;non-profit;www.contentmine.org;search
-europe pmc;repository;non-profit;www.europemc.org;
-wellcome library;library;non-profit;;
-hypothes.is;software;non-profit;http://hypothes.is;annotations
-american geophysical union;asociation;non-profit;;
-center for open science;;non-profit;;
-collaborative knowledge foundation;;non-profit;;
-knoledge unlatched;;non-profit;;
-biodiversity heritage library;;non-profit;;
-world digital mathematics library;;non-profit;;
-world archive of sciences;;non-profit;;
-europeana;;non-profit;;
-cabi;;non-profit;;
-Romanian Center for Investigative Journalism;;non-profit;;
-qualitative data repository;;non-profit;;
-worldbrain;;non-profit;;
-factminers;;non-profit;;
-open edition/ cleo;;non-profit;;
-wiley;;company;;
-ssrn;;company;;
-mendeley;;company;;
-wolfram;;company;;
-elsevier;;company;;
-o'reilly;;company;;
-pensoft;;company;;
-pressbooks;;company;;
-ubiquity press;;company;;
-authorea;;company;;
-paperhive;;company;;
-atypon;;company;;
-redlink;;company;;
-semantico;;company;;
-High Wire;;company;;
-journal of neuroscience research;;company;;
-annual reviews;;company;;
-ingenta;;company;;
-f1000;;company;;
-celi;;company;;
-altmetric;;company;;
-pundit;;company;;
-xpansa;;company;;
-arXiv;;university;;
-Hathi Trust;;university;;
-carnegie mellon;;university;;
-pkp;;university;;
-Giga Science;;university;;
-umass amherst;;university;;
-brandeis;;university;;
-project muse;;university;;
-astrophysics data system;;university;;
-michigan publishing;;university;;
-the mit press;;university;;
-NYU press;;university;;
-stanford university libraries;;university;;
-UC Davis;;university;;
-UC Press;;university;;
-U Illinois;;university;;
-Duke Univ Press;;university;;
-Oxfor University Press;;university;;
-Cambridge University Press;;university;;
-Scalar;;university;;
-center for astrophysics;;university;;
-unizin;;university;;
+name,type,scope,url,focus
+JSTOR,library,non-profit,www.jstor.org,
+PloS,publisher,non-profit,www.plos.org,
+ORCID,service,non-profit,www.orcid.org,identification
+CrossRef,service,non-profit,www.corssref.org,identification
+iPython,software,non-profit,www.ipython.org,
+idpf,asociation,non-profit,www.idpf.org,
+eLife,publisher,non-profit,www.elifesciences.org,
+bioRxiv,repository,non-profit,www.biorxiv.org,preprints
+w3c,asociation,non-profit,www.w3.org,
+content mine,software,non-profit,www.contentmine.org,search
+europe pmc,repository,non-profit,www.europemc.org,
+wellcome library,library,non-profit,,
+hypothes.is,software,non-profit,http://hypothes.is,annotations
+american geophysical union,asociation,non-profit,,
+center for open science,,non-profit,,
+collaborative knowledge foundation,,non-profit,,
+knoledge unlatched,,non-profit,,
+biodiversity heritage library,,non-profit,,
+world digital mathematics library,,non-profit,,
+world archive of sciences,,non-profit,,
+europeana,,non-profit,,
+cabi,,non-profit,,
+Romanian Center for Investigative Journalism,,non-profit,,
+qualitative data repository,,non-profit,,
+worldbrain,,non-profit,,
+factminers,,non-profit,,
+open edition/ cleo,,non-profit,,
+wiley,,company,,
+ssrn,,company,,
+mendeley,,company,,
+wolfram,,company,,
+elsevier,,company,,
+o'reilly,,company,,
+pensoft,,company,,
+pressbooks,,company,,
+ubiquity press,,company,,
+authorea,,company,,
+paperhive,,company,,
+atypon,,company,,
+redlink,,company,,
+semantico,,company,,
+High Wire,,company,,
+journal of neuroscience research,,company,,
+annual reviews,,company,,
+ingenta,,company,,
+f1000,,company,,
+celi,,company,,
+altmetric,,company,,
+pundit,,company,,
+xpansa,,company,,
+arXiv,,university,,
+Hathi Trust,,university,,
+carnegie mellon,,university,,
+pkp,,university,,
+Giga Science,,university,,
+umass amherst,,university,,
+brandeis,,university,,
+project muse,,university,,
+astrophysics data system,,university,,
+michigan publishing,,university,,
+the mit press,,university,,
+NYU press,,university,,
+stanford university libraries,,university,,
+UC Davis,,university,,
+UC Press,,university,,
+U Illinois,,university,,
+Duke Univ Press,,university,,
+Oxfor University Press,,university,,
+Cambridge University Press,,university,,
+Scalar,,university,,
+center for astrophysics,,university,,
+unizin,,university,,
