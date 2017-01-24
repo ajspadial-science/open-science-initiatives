@@ -78,5 +78,7 @@ duraspace,asociation,non-profit,http://duraspace.org,
 dspace,software,non-profit,www.dspace.org,repository
 fedora,software,non-profit,http://fedorarepository.org,repository
 digital-science,,company,www.digital-science.com,
-digital preservation network,university,http://dpn.org/,storage
-national information standards organization,non-profit,http://niso.org/,rdm
+digital preservation network,,university,http://dpn.org/,storage
+national information standards organization,asociation,non-profit,http://niso.org/,rdm
+casrai,asociation,non-profit,http://casrai.org/,governance
+publons,service,company,http://publons.com/,peer-review
